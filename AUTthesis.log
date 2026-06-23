@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.6.23)  23 JUN 2026 10:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.6.23)  23 JUN 2026 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -931,178 +931,829 @@ text;"
 LaTeX Info: Redefining \latinfont on input line 61.
 
 Package fontspec Info: 
-(fontspec)             Times New Roman scale = 1.1.
+(fontspec)             PGaramond scale = 1.1.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman scale = 1.1.
+(fontspec)             PGaramond scale = 1.1.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman scale = 1.1.
+(fontspec)             PGaramond/B scale = 1.1.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman/B scale = 1.1.
+(fontspec)             PGaramond/I scale = 1.1.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman/B scale = 1.1.
+(fontspec)             PGaramond/BI scale = 1.1.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman/I scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Times New Roman/I scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Times New Roman/BI scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Times New Roman/BI scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'TimesNewRoman(1)' created for font 'Times
-(fontspec)             New Roman' with options
-(fontspec)             [Ligatures=PersianTeX,Scale=1.1].
+(fontspec)             Font family 'PGaramond(0)' created for font 'PGaramond'
+(fontspec)             with options [Ligatures=PersianTeX,Scale=1.1].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.1]"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;mapping=persian-tex-t
-ext;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=persian
--tex-text;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.1]"Times New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=persian-tex
--text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=persi
-an-tex-text;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1.1]"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=persian-tex
--text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=persi
-an-tex-text;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.1]"PGaramond/OT:script=latn;language=dflt;mappin
+g=persian-tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.1]"PGaramond/B/OT:script=latn;language=dflt;mapp
+ing=persian-tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.1]"PGaramond/I/OT:script=latn;language=dflt;mapp
+ing=persian-tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=persian-te
-x-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=pers
-ian-tex-text;"
+(fontspec)             <->s*[1.1]"PGaramond/BI/OT:script=latn;language=dflt;map
+ping=persian-tex-text;"
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman scale = 1.1.
+(fontspec)             Amiri scale = 1.208090860642217.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman scale = 1.1.
+(fontspec)             Amiri scale = 1.208090860642217.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman scale = 1.1.
+(fontspec)             Amiri/B scale = 1.210813824947907.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman/B scale = 1.1.
+(fontspec)             Amiri/I scale = 1.210813824947907.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman/B scale = 1.1.
+(fontspec)             Amiri/BI scale = 1.20990480733701.
 
 
 Package fontspec Info: 
-(fontspec)             Times New Roman/I scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Times New Roman/I scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Times New Roman/BI scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Times New Roman/BI scale = 1.1.
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'TimesNewRoman(2)' created for font 'Times
-(fontspec)             New Roman' with options [Scale=1.1].
+(fontspec)             Font family 'Amiri(0)' created for font 'Amiri' with
+(fontspec)             options [Scale=MatchUppercase].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.1]"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.1]"Times New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1.1]"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.208090860642217]"Amiri/OT:script=latn;language=d
+flt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.210813824947907]"Amiri/B/OT:script=latn;language
+=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.210813824947907]"Amiri/I/OT:script=latn;language
+=dflt;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->s*[1.1]"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             <->s*[1.20990480733701]"Amiri/BI/OT:script=latn;language
+=dflt;"
 
-Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'Tim
-es New Roman' on input line 68.
+Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'Ami
+ri' on input line 69.
 \sympersianoperators=\mathgroup6
 \sympersianoperatorsbf=\mathgroup7
 \sympersianoperatorsit=\mathgroup8
 
-
-! Package fontspec Error: 
-(fontspec)                The font "IranNastaliq" cannot be found; this may
-(fontspec)                be but usually is not a fontspec bug. Either there
-(fontspec)                is a typo in the font name/file, the font is not
-(fontspec)                installed (correctly), or there is a bug in the
-(fontspec)                underlying font loading engine (XeTeX/luaotfload).
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.69 \defpersianfont
-                    \chapternumber[Scale=3]{B Nazanin}
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
+Package fontspec Info: 
+(fontspec)             IranNastaliq scale = 2.
 
 
- 
+Package fontspec Info: 
+(fontspec)             Could not resolve font "IranNastaliq/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "IranNastaliq/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "IranNastaliq/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             IranNastaliq scale = 2.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'IranNastaliq(0)' created for font
+(fontspec)             'IranNastaliq' with options
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Scale=2].
+
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[2]"IranNastaliq/OT:language=dflt;script=arab;mappi
+ng=persian-tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             B Nazanin scale = 3.
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "B Nazanin/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             B Nazanin scale = 3.
+
+
+Package fontspec Info: 
+(fontspec)             B Nazanin/B scale = 3.
+
+
+Package fontspec Info: 
+(fontspec)             B Nazanin/BI scale = 3.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'BNazanin(1)' created for font 'B Nazanin'
+(fontspec)             with options
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Scale=3].
+
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[3]"B
+(fontspec)             Nazanin/OT:language=dflt;script=arab;mapping=persian-tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[3]"B
+(fontspec)             Nazanin/B/OT:language=dflt;script=arab;mapping=persian-t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[3]"B
+(fontspec)             Nazanin/BI/OT:language=dflt;script=arab;mapping=persian-
+tex-text;"
+
+\c@definition=\count387
+
+
+Package amsthm Warning: Unknown theoremstyle `theorem' on input line 117.
+
+\c@savepage=\count388
+)
+
+LaTeX Warning: Unused global option(s):
+    [oneside,12pt].
+
+(AUTthesis.aux (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
+(chapter5.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
+\openout1 = `AUTthesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 441.01773pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=674.33032pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=42.67912pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 32.
+(AUTthesis.out) (AUTthesis.out)
+\@outlinefile=\write4
+\openout4 = `AUTthesis.out'.
+
+ (fa_title.tex
+File: fa-logo.png Graphic file (type bmp)
+<fa-logo.png>
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 14.39996pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 19.19995pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 16.79996pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 19.19995pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 23.99994pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 23.99994pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 21.59995pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 21.59995pt on input line 37.
+ [1
+
+]
+File: besm.jpg Graphic file (type bmp)
+<besm.jpg>
+) (taid.tex [2]
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 20.73593pt on input line 5.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 5.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 17.27994pt on input line 14.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 17.27994pt on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+
+
+(C:\Users\sadr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+
+
+(C:\Users\sadr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/n' will be
+(Font)              scaled to size 14.49701pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/n' will be
+(Font)              scaled to size 9.66467pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/n' will be
+(Font)              scaled to size 7.2485pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/bx/n' in size <12> not available
+(Font)              Font shape `TU/Amiri(0)/b/n' tried instead on input line 18
+.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/b/n' will be
+(Font)              scaled to size 14.52979pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/bx/n' in size <8> not available
+(Font)              Font shape `TU/Amiri(0)/b/n' tried instead on input line 18
+.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/b/n' will be
+(Font)              scaled to size 9.68652pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/bx/n' in size <6> not available
+(Font)              Font shape `TU/Amiri(0)/b/n' tried instead on input line 18
+.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/b/n' will be
+(Font)              scaled to size 7.2649pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/it' will be
+(Font)              scaled to size 14.52979pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/it' will be
+(Font)              scaled to size 9.68652pt on input line 18.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/it' will be
+(Font)              scaled to size 7.2649pt on input line 18.
+
+[3]
+File: fa-logo.png Graphic file (type bmp)
+<fa-logo.png>
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 36.
+
+Overfull \hbox (8.46791pt too wide) in paragraph at lines 45--46
+[]\TU/BNazanin(0)/m/n/12 حاصل کار پژوهشی اینجانب تحت نظارت و راهنمایی اساتید دا
+نشگاه صنعتی امیرکبیر بوده و به دستاوردهای[]
+ []
+
+) (Chant.tex [4]
+LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
+(Font)              scaled to size 24.0pt on input line 5.
+
+Overfull \hbox (17.95883pt too wide) in paragraph at lines 7--8
+[][]\TU/IranNastaliq(0)/m/n/12 نويسنده پايان‌نامه، درصورت تمايل ميتواند برای سپ
+اسگزاری پايان‌نامه خود را به شخص[]
+ []
+
+[5]) (acknowledgement.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+[][]
+ []
+
+LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
+(Font)              scaled to size 16.0pt on input line 25.
+[6]) (TOC-TOF-LOT.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1
+
+]
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 24.88794pt on input line 7.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 24.88794pt on input line 7.
+ (AUTthesis.toc
+LaTeX Font Info:    Font shape `TU/PGaramond(0)/b/n' will be
+(Font)              scaled to size 13.20007pt on input line 7.
+LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
+(Font)              scaled to size 13.20007pt on input line 8.
+ [2
+
+])
+\tf@toc=\write5
+\openout5 = `AUTthesis.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3] (AUTthesis.lof)
+\tf@lof=\write6
+\openout6 = `AUTthesis.lof'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4
+
+] (AUTthesis.lot)
+\tf@lot=\write7
+\openout7 = `AUTthesis.lot'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5
+
+]) (list-of-symbols.tex
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 13.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 13.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 28.
+
+
+(C:\Users\sadr\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--68
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--68
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6
+
+
+])
+\openout2 = `chapter1.aux'.
+
+ (chapter1.tex
+فصل 1.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 29.85593pt on input line 1.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 13.13995pt on input line 1.
+LaTeX Font Info:    Font shape `TU/BNazanin(1)/b/n' will be
+(Font)              scaled to size 32.84999pt on input line 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1
+
+
+]
+LaTeX Font Info:    Font shape `TU/PGaramond(0)/b/n' will be
+(Font)              scaled to size 19.0081pt on input line 3.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
+(Font)              scaled to size 8.80005pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/n' will be
+(Font)              scaled to size 12.08084pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/n' will be
+(Font)              scaled to size 8.45659pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/n' will be
+(Font)              scaled to size 6.04042pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/bx/n' in size <10> not available
+(Font)              Font shape `TU/Amiri(0)/b/n' tried instead on input line 66
+.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/b/n' will be
+(Font)              scaled to size 12.10815pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/bx/n' in size <7> not available
+(Font)              Font shape `TU/Amiri(0)/b/n' tried instead on input line 66
+.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/b/n' will be
+(Font)              scaled to size 8.47571pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/bx/n' in size <5> not available
+(Font)              Font shape `TU/Amiri(0)/b/n' tried instead on input line 66
+.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/b/n' will be
+(Font)              scaled to size 6.05408pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/it' will be
+(Font)              scaled to size 12.10815pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/it' will be
+(Font)              scaled to size 8.47571pt on input line 66.
+LaTeX Font Info:    Font shape `TU/Amiri(0)/m/it' will be
+(Font)              scaled to size 6.05408pt on input line 66.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 110.
+LaTeX Font Info:    Font shape `TU/PGaramond(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 110.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+LaTeX Font Info:    Font shape `TU/PGaramond(0)/b/n' will be
+(Font)              scaled to size 15.84007pt on input line 145.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex
+فصل 2.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5--10
+[][]
+ []
+
+File: bidabad.jpg Graphic file (type bmp)
+<bidabad.jpg>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+File: bibref.jpg Graphic file (type bmp)
+<bibref.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--53
+[][]
+ []
+
+
+Overfull \hbox (28.66222pt too wide) in paragraph at lines 57--57
+[][]\TU/lmtt/m/n/12 title={A classification of some Finsler connections and the
+ir applications},[] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+File: Xindy_Make_Index.png Graphic file (type bmp)
+<Xindy_Make_Index.png>
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex
+فصل 3.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+\openout2 = `chapter4.aux'.
+
+ (chapter4.tex
+فصل 4.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex
+فصل 5.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21
+
+
+
+
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22] (AUTthesis.bbl
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 29.85593pt on input line 4.
+
+
+LaTeX Font Warning: Font shape `TU/BNazanin(0)/m/it' undefined
+(Font)              using `TU/BNazanin(0)/m/n' instead on input line 28.
+
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/it' will be
+(Font)              scaled to size 14.39996pt on input line 34.
+) [23
+
+
+
+]
+\openout2 = `appendix1.aux'.
+
+ (appendix1.tex) [24
+
+
+]
+\openout2 = `dicfa2en.aux'.
+
+ (dicfa2en.tex
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+[25
+
+
+
+
+]
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26])
+\openout2 = `dicen2fa.aux'.
+
+ (dicen2fa.tex
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+[27
+
+
+
+
+]
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+Missing character: There is no p in font B Nazanin/OT:language=dflt;script=arab
+;mapping=persian-tex-text;!
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28] (AUTthesis.ind [29
+
+
+
+])
+\openout2 = `en-abstract.aux'.
+
+ (en-abstract.tex) [30
+
+
+] (en_title.tex
+File: en-logo.png Graphic file (type bmp)
+<en-logo.png>
+ [31
+
+
+])
+(AUTthesis.aux (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
+(chapter5.aux) (appendix1.aux) (dicfa2en.aux) (dicen2fa.aux) (en-abstract.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: 6318B7C1112FBCF8961DE058F919ED5D;9342.
+ ) 
 Here is how much of TeX's memory you used:
- 17138 strings out of 402986
- 346940 string characters out of 5448710
- 809217 words of memory out of 5000000
- 45593 multiletter control sequences out of 15000+600000
- 628958 words of font info for 71 fonts, out of 8000000 for 9000
+ 19234 strings out of 402986
+ 398246 string characters out of 5448710
+ 842439 words of memory out of 5000000
+ 47439 multiletter control sequences out of 15000+600000
+ 637438 words of font info for 193 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,0n,97p,1216b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
-No pages of output.
+ 93i,11n,113p,1700b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on AUTthesis.pdf (43 pages).
