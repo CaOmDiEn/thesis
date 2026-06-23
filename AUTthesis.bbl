@@ -5,40 +5,64 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{bidabad2007classification}
-Bidabad, Behroz and Tayebi, Akbar.
-\newblock A classification of some finsler connections and their applications.
-\newblock {\em arXiv preprint arXiv:0710.2816}, 2007.
+\bibitem{kafkadocs}
+{Apache Software Foundation}.
+\newblock Apache kafka documentation.
+\newblock \url{https://kafka.apache.org/documentation/}, 2026.
+\newblock Accessed 2026-06-23.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{najafi2008finsler}
-Najafi, B, Shen, Z, and Tayebi, A.
-\newblock Finsler metrics of scalar flag curvature with special non-riemannian
-  curvature properties.
-\newblock {\em Geometriae Dedicata}, 131(1):87--97, 2008.
+\bibitem{kafkastreams}
+{Apache Software Foundation}.
+\newblock Kafka streams documentation.
+\newblock \url{https://kafka.apache.org/documentation/streams/}, 2026.
+\newblock Accessed 2026-06-23.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{cefinalproject}
+{CaOmDiEn}.
+\newblock Ce-final-project: Jvm profiler and anomaly detection pipeline.
+\newblock \url{https://github.com/CaOmDiEn/CE-FINAL-PROJECT}, 2026.
+\newblock Commit b23e1b4bc1224cb0ea922dff86189ed8c3d5f437, accessed 2026-06-23.
 
-\bibitem{aa}
-بیدآباد, دکتر~بهروز.
-\newblock {\em هندسه‌ی منیفلد}.
-\newblock دانشگاه صنعتی امیرکبیر, 1389.
+\end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{ebpfdocs}
+{eBPF Foundation}.
+\newblock ebpf documentation.
+\newblock \url{https://ebpf.io/what-is-ebpf/}, 2026.
+\newblock Accessed 2026-06-23.
 
-\bibitem{zakeri}
-ذاکری, مهندس~محمدرضا.
-\newblock {\em دستورالعمل و راهنمای نگارش
-  پایان‌نامه}.
-\newblock دانشگاه صنعتی امیرکبیر, 1391.
+\end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{jfrdocs}
+{Oracle}.
+\newblock Java flight recorder runtime guide.
+\newblock
+  \url{https://docs.oracle.com/javacomponents/jmc-5-4/jfr-runtime-guide/about.htm},
+  2026.
+\newblock Accessed 2026-06-23.
 
-\bibitem{najafi}
-نجفی, دکتر~بهزاد.
-\newblock {\em هندسه‌ی منیفلد}.
-\newblock دانشگاه صنعتی امیرکبیر, 1388.
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{prometheusdocs}
+{Prometheus Authors}.
+\newblock Prometheus documentation.
+\newblock \url{https://prometheus.io/docs/introduction/overview/}, 2026.
+\newblock Accessed 2026-06-23.
+
+\end{LTRbibitems}
 
 \end{thebibliography}

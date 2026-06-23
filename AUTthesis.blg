@@ -1,70 +1,70 @@
 This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter1.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter2.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter3.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter4.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: chapter5.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapters/chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapters/chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapters/chapter3.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapters/chapter4.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: chapters/chapter5.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plain-fa.bst
-Reallocating 'name_of_file' (item size: 1) to 11 items.
-Reallocating 'name_of_file' (item size: 1) to 14 items.
-A level-1 auxiliary file: appendix1.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: dicfa2en.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-A level-1 auxiliary file: dicen2fa.aux
-Reallocating 'name_of_file' (item size: 1) to 16 items.
-A level-1 auxiliary file: en-abstract.aux
-Database file #1: references.bib
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: appendices/appendix1.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: backmatter/dicfa2en.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: backmatter/dicen2fa.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: backmatter/en-abstract.aux
+Database file #1: bibliography/references.bib
 -- plain-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 5 entries,
+You've used 6 entries,
             2535 wiz_defined-function locations,
-            655 strings with 5896 characters,
-and the built_in function-call counts, 1458 in all, are:
-= -- 136
-> -- 52
+            656 strings with 6134 characters,
+and the built_in function-call counts, 1477 in all, are:
+= -- 132
+> -- 42
 < -- 0
-+ -- 22
-- -- 16
-* -- 78
-:= -- 230
-add.period$ -- 15
-call.type$ -- 5
-change.case$ -- 38
++ -- 18
+- -- 12
+* -- 49
+:= -- 231
+add.period$ -- 24
+call.type$ -- 6
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 66
-empty$ -- 118
-format.name$ -- 16
-if$ -- 333
+cite$ -- 6
+duplicate$ -- 42
+empty$ -- 133
+format.name$ -- 12
+if$ -- 351
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 38
-newline$ -- 42
-num.names$ -- 10
-pop$ -- 36
+int.to.str$ -- 6
+missing$ -- 30
+newline$ -- 66
+num.names$ -- 12
+pop$ -- 48
 preamble$ -- 1
-purify$ -- 9
+purify$ -- 18
 quote$ -- 0
-skip$ -- 39
+skip$ -- 36
 stack$ -- 0
-substring$ -- 45
-swap$ -- 5
+substring$ -- 30
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 14
+type$ -- 24
 warning$ -- 0
 while$ -- 12
-width$ -- 6
-write$ -- 62
+width$ -- 7
+write$ -- 95

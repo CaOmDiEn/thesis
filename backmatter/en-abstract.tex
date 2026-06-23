@@ -1,0 +1,10 @@
+\begin{latin}
+\chapter*{Abstract}
+Modern software systems require continuous observability mechanisms that can capture performance symptoms with low overhead and transform them into actionable reports. This thesis presents the design and implementation of a streaming profiler pipeline for Java applications. The system combines Java Flight Recorder events, kernel-level events collected through eBPF, Apache Kafka for event transport, Kafka Streams for windowed aggregation, and a Python analytics service for anomaly detection.
+
+The proposed architecture separates event collection, aggregation, detection, and evaluation into independent components. JFR and kernel receivers normalize raw observations into structured Kafka messages. The aggregation service groups events in configurable time windows and computes metrics for CPU usage, memory pressure, file I/O, network traffic, lock contention, garbage collection, and kernel counters. The analytics service applies threshold-based, rolling-baseline, and trend-based detectors and writes aggregate and anomaly reports in CSV format. An evaluation module executes controlled workload scenarios, including CPU spikes, memory and GC pressure, file I/O bursts, lock contention, network bursts, and memory-mapped file scans, then checks whether the pipeline reports the expected anomalies.
+
+The implementation demonstrates that a modular stream-processing design can combine JVM-level and operating-system-level telemetry while keeping each processing stage independently deployable and extensible.
+
+\textbf{Keywords:} Performance monitoring, anomaly detection, Java Flight Recorder, eBPF, Kafka Streams, observability.
+\end{latin}

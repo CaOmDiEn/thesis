@@ -1,0 +1,44 @@
+\chapter{راهنمای اجرای پروژه}
+
+این پیوست خلاصه‌ای از روش اجرای خط لوله پروژه را ارائه می‌کند. دستورهای زیر بر اساس ساختار مخزن \lr{\texttt{CE-FINAL-PROJECT}} نوشته شده‌اند.
+
+\section{ساخت ماژول‌های جاوا}
+\begin{latin}
+\begin{verbatim}
+mvn package -DskipTests
+\end{verbatim}
+\end{latin}
+
+\section{اجرای اجزای اصلی}
+ابتدا \lr{Kafka} و سرویس‌های وابسته اجرا می‌شوند. سپس دریافت‌کننده رخدادهای \lr{JFR}، دریافت‌کننده رخدادهای هسته، تجمیع‌کننده و تحلیل‌گر اجرا می‌شوند. اسکریپت \lr{\texttt{scripts/run-profiler-pipelines.sh}} برای هماهنگ کردن این مراحل در مخزن پروژه قرار دارد.
+
+\section{اجرای ارزیابی}
+برای اجرای ماژول ارزیابی:
+\begin{latin}
+\begin{verbatim}
+mvn -pl profiler-evaluation -am package -DskipTests
+java -cp profiler-evaluation/target/classes aut.ce.evaluation.App
+\end{verbatim}
+\end{latin}
+
+برنامه در شروع اجرا شناسه فرایند را چاپ می‌کند. برای بررسی رخدادهای هسته، فرستنده \lr{eBPF} با همان شناسه فرایند ساخته و اجرا می‌شود:
+\begin{latin}
+\begin{verbatim}
+cd kernel-event-sender
+make clean
+make TARGET_PID=12345
+sudo ./build/loader
+\end{verbatim}
+\end{latin}
+
+\section{خروجی‌ها}
+خروجی‌های ارزیابی در قالب فایل‌های زیر تولید می‌شوند:
+\begin{latin}
+\begin{verbatim}
+experiment_results.csv
+experiment_metrics.json
+evaluation_report.md
+\end{verbatim}
+\end{latin}
+
+گزارش نهایی شامل وضعیت موفقیت تشخیص در هر سناریو و تأخیر تشخیص است.
