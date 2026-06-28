@@ -1,103 +1,87 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست تصاویر}{ه}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{و}{section*.5}%
+\contentsline {chapter}{فهرست تصاویر}{و}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{ز}{section*.5}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{فهرست نمادها و کوته‌نوشت‌ها}{1}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}کلیات پژوهش}{2}{chapter.1}%
 \contentsline {section}{\numberline {1-1}مقدمه}{3}{section.1.1}%
 \contentsline {section}{\numberline {1-2}بیان مسئله}{3}{section.1.2}%
-\contentsline {section}{\numberline {1-3}اهمیت و ضرورت}{3}{section.1.3}%
-\contentsline {section}{\numberline {1-4}اهداف پژوهش}{4}{section.1.4}%
-\contentsline {section}{\numberline {1-5}پرسش‌های پژوهش}{4}{section.1.5}%
-\contentsline {section}{\numberline {1-6}ساختار پایان‌نامه}{4}{section.1.6}%
-\contentsline {chapter}{\numberline {2}مبانی نظری و فناوری‌های مورد استفاده}{5}{chapter.2}%
-\contentsline {section}{\numberline {2-1}مقدمه}{6}{section.2.1}%
-\contentsline {section}{\numberline {2-2}پایش، مشاهده‌پذیری و پروفایل‌سازی}{7}{section.2.2}%
-\contentsline {subsection}{\numberline {2-2-1}پایش عملکرد}{7}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2-2-2}مشاهده‌پذیری}{7}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2-2-3}پروفایل‌سازی}{8}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2-2-4}رخداد، معیار و گزارش}{8}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2-3}اجرای برنامه‌های جاوا و ماشین مجازی جاوا}{9}{section.2.3}%
-\contentsline {subsection}{\numberline {2-3-1}کامپایل درجا}{9}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2-3-2}مدیریت حافظه و جمع‌آوری زباله}{9}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2-3-3}نخ‌ها و هم‌زمانی}{9}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2-4}ثبت پرواز جاوا}{10}{section.2.4}%
-\contentsline {subsection}{\numberline {2-4-1}مدل رخداد در JFR}{10}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2-4-2}دسته‌های مهم رخدادهای JFR}{10}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2-4-3}ثبت پیوسته و مصرف جریانی}{11}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2-4-4}مزایای JFR}{11}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2-4-5}محدودیت‌های JFR}{11}{subsection.2.4.5}%
-\contentsline {section}{\numberline {2-5}فناوری eBPF و مشاهده رخدادهای سطح هسته}{12}{section.2.5}%
-\contentsline {subsection}{\numberline {2-5-1}نحوه اجرای برنامه‌های eBPF}{12}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2-5-2}نقاط اتصال}{12}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2-5-3}نقشه‌ها}{13}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2-5-4}بافر حلقوی}{13}{subsection.2.5.4}%
-\contentsline {subsection}{\numberline {2-5-5}شناسه فرایند و نخ}{13}{subsection.2.5.5}%
-\contentsline {subsection}{\numberline {2-5-6}مزایای eBPF}{14}{subsection.2.5.6}%
-\contentsline {subsection}{\numberline {2-5-7}محدودیت‌ها و چالش‌های eBPF}{14}{subsection.2.5.7}%
-\contentsline {section}{\numberline {2-6}ترکیب داده‌های JVM و سیستم‌عامل}{14}{section.2.6}%
-\contentsline {section}{\numberline {2-7}پردازش جریانی}{15}{section.2.7}%
-\contentsline {subsection}{\numberline {2-7-1}ویژگی‌های جریان رخداد}{15}{subsection.2.7.1}%
-\contentsline {subsection}{\numberline {2-7-2}کلیدگذاری}{16}{subsection.2.7.2}%
-\contentsline {subsection}{\numberline {2-7-3}پنجره‌بندی زمانی}{16}{subsection.2.7.3}%
-\contentsline {subsection}{\numberline {2-7-4}حالت در پردازش جریانی}{16}{subsection.2.7.4}%
-\contentsline {section}{\numberline {2-8}Apache Kafka}{17}{section.2.8}%
-\contentsline {subsection}{\numberline {2-8-1}موضوع و پارتیشن}{17}{subsection.2.8.1}%
-\contentsline {subsection}{\numberline {2-8-2}تولیدکننده و مصرف‌کننده}{17}{subsection.2.8.2}%
-\contentsline {subsection}{\numberline {2-8-3}گروه مصرف‌کننده}{18}{subsection.2.8.3}%
-\contentsline {subsection}{\numberline {2-8-4}نگه‌داری داده}{18}{subsection.2.8.4}%
-\contentsline {subsection}{\numberline {2-8-5}نقش Kafka در سامانه پایش}{18}{subsection.2.8.5}%
-\contentsline {section}{\numberline {2-9}Kafka Streams}{18}{section.2.9}%
-\contentsline {subsection}{\numberline {2-9-1}جریان و جدول}{19}{subsection.2.9.1}%
-\contentsline {subsection}{\numberline {2-9-2}عملیات بدون حالت و حالت‌دار}{19}{subsection.2.9.2}%
-\contentsline {subsection}{\numberline {2-9-3}زمان رخداد و رکوردهای دیررس}{19}{subsection.2.9.3}%
-\contentsline {subsection}{\numberline {2-9-4}مادی‌سازی حالت}{19}{subsection.2.9.4}%
-\contentsline {subsection}{\numberline {2-9-5}مزایا و محدودیت‌ها}{20}{subsection.2.9.5}%
-\contentsline {section}{\numberline {2-10}تشخیص ناهنجاری در داده‌های پایشی}{20}{section.2.10}%
-\contentsline {subsection}{\numberline {2-10-1}روش آستانه‌ای}{20}{subsection.2.10.1}%
-\contentsline {subsection}{\numberline {2-10-2}خط پایه غلتان}{21}{subsection.2.10.2}%
-\contentsline {subsection}{\numberline {2-10-3}تشخیص روند}{21}{subsection.2.10.3}%
-\contentsline {subsection}{\numberline {2-10-4}معیارهای ارزیابی آشکارساز}{21}{subsection.2.10.4}%
-\contentsline {section}{\numberline {2-11}مقایسه فناوری‌های جمع‌آوری و تحلیل}{22}{section.2.11}%
-\contentsline {section}{\numberline {2-12}ملاحظات سربار و دقت}{22}{section.2.12}%
-\contentsline {section}{\numberline {2-13}جمع‌بندی}{23}{section.2.13}%
-\contentsline {chapter}{\numberline {3}معماری سامانه}{25}{chapter.3}%
-\contentsline {section}{\numberline {3-1}مقدمه}{26}{section.3.1}%
-\contentsline {section}{\numberline {3-2}نمای کلی معماری}{26}{section.3.2}%
-\contentsline {section}{\numberline {3-3}مسیرهای داده در سامانه}{27}{section.3.3}%
-\contentsline {subsection}{\numberline {3-3-1}مسیر رخدادهای \lr {JFR}}{27}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3-3-2}مسیر رخدادهای هسته}{27}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3-4}لایه جمع‌آوری داده}{28}{section.3.4}%
-\contentsline {section}{\numberline {3-5}لایه انتقال و ذخیره‌سازی جریان داده}{28}{section.3.5}%
-\contentsline {section}{\numberline {3-6}لایه تجمیع}{28}{section.3.6}%
-\contentsline {section}{\numberline {3-7}لایه تحلیل}{29}{section.3.7}%
-\contentsline {section}{\numberline {3-8}لایه ارزیابی}{30}{section.3.8}%
-\contentsline {section}{\numberline {3-9}مدل داده مشترک}{30}{section.3.9}%
-\contentsline {section}{\numberline {3-10}دلایل انتخاب معماری لایه‌ای}{30}{section.3.10}%
-\contentsline {section}{\numberline {3-11}جمع‌بندی}{31}{section.3.11}%
-\contentsline {chapter}{\numberline {4}پیاده‌سازی سامانه}{32}{chapter.4}%
-\contentsline {section}{\numberline {4-1}ساختار مخزن}{33}{section.4.1}%
-\contentsline {section}{\numberline {4-2}دریافت رخدادهای \lr {JFR}}{33}{section.4.2}%
-\contentsline {section}{\numberline {4-3}دریافت رخدادهای هسته}{33}{section.4.3}%
-\contentsline {section}{\numberline {4-4}تجمیع رخدادها}{33}{section.4.4}%
-\contentsline {section}{\numberline {4-5}تحلیل و گزارش‌گیری}{34}{section.4.5}%
-\contentsline {section}{\numberline {4-6}پایش خود سامانه}{34}{section.4.6}%
-\contentsline {section}{\numberline {4-7}جمع‌بندی}{34}{section.4.7}%
-\contentsline {chapter}{\numberline {5}ارزیابی، نتیجه‌گیری و کارهای آینده}{35}{chapter.5}%
-\contentsline {section}{\numberline {5-1}روش ارزیابی}{36}{section.5.1}%
-\contentsline {section}{\numberline {5-2}سناریوهای آزمایش}{36}{section.5.2}%
-\contentsline {section}{\numberline {5-3}معیارهای ارزیابی}{36}{section.5.3}%
-\contentsline {section}{\numberline {5-4}بحث}{37}{section.5.4}%
-\contentsline {section}{\numberline {5-5}نتیجه‌گیری}{37}{section.5.5}%
-\contentsline {section}{\numberline {5-6}کارهای آینده}{37}{section.5.6}%
-\contentsline {chapter}{کتاب‌نامه}{39}{appendix*.7}%
-\contentsline {chapter}{\numberline {آ}راهنمای اجرای پروژه}{40}{appendix.Alph1}%
-\contentsline {section}{\numberline {آ-1}ساخت ماژول‌های جاوا}{41}{section.Alph1.1}%
-\contentsline {section}{\numberline {آ-2}اجرای اجزای اصلی}{41}{section.Alph1.2}%
-\contentsline {section}{\numberline {آ-3}اجرای ارزیابی}{41}{section.Alph1.3}%
-\contentsline {section}{\numberline {آ-4}خروجی‌ها}{41}{section.Alph1.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{43}{appendix*.8}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{45}{appendix*.9}%
+\contentsline {section}{\numberline {1-3}اهمیت و ضرورت پژوهش}{5}{section.1.3}%
+\contentsline {section}{\numberline {1-4}روش انجام پژوهش}{6}{section.1.4}%
+\contentsline {section}{\numberline {1-5}محدوده و محدودیت‌های پژوهش}{7}{section.1.5}%
+\contentsline {section}{\numberline {1-6}ساختار پایان‌نامه}{9}{section.1.6}%
+\contentsline {section}{\numberline {1-7}جمع‌بندی}{10}{section.1.7}%
+\contentsline {chapter}{\numberline {2}مبانی نظری و فناوری‌های مورد استفاده}{11}{chapter.2}%
+\contentsline {section}{\numberline {2-1}مقدمه}{12}{section.2.1}%
+\contentsline {section}{\numberline {2-2}پایش، مشاهده‌پذیری و پروفایل‌سازی}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}پایش عملکرد}{12}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2-2-2}مشاهده‌پذیری}{13}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2-2-3}پروفایل‌سازی}{13}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2-2-4}رخداد، معیار و گزارش}{14}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2-3}اجرای برنامه‌های جاوا و ماشین مجازی جاوا}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2-3-1}کامپایل درجا}{14}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2-3-2}مدیریت حافظه و جمع‌آوری زباله}{15}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2-3-3}نخ‌ها و هم‌زمانی}{15}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2-4}\lr {Java Flight Recorder}}{15}{section.2.4}%
+\contentsline {subsection}{\numberline {2-4-1}مدل رخداد در \lr {JFR}}{15}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2-4-2}دسته‌های مهم رخدادهای \lr {JFR}}{16}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2-4-3}ثبت پیوسته و مصرف جریانی}{16}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2-4-4}مزایای \lr {JFR}}{16}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2-4-5}محدودیت‌های \lr {JFR}}{17}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2-5}فناوری \lr {eBPF} و مشاهده رخدادهای سطح هسته}{17}{section.2.5}%
+\contentsline {subsection}{\numberline {2-5-1}نحوه اجرای برنامه‌های \lr {eBPF}}{17}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2-5-2}نقاط اتصال}{18}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2-5-3}نقشه‌ها}{18}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2-5-4}بافر حلقوی}{19}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2-5-5}شناسه فرایند و نخ}{19}{subsection.2.5.5}%
+\contentsline {subsection}{\numberline {2-5-6}مزایای \lr {eBPF}}{19}{subsection.2.5.6}%
+\contentsline {subsection}{\numberline {2-5-7}محدودیت‌ها و چالش‌های \lr {eBPF}}{20}{subsection.2.5.7}%
+\contentsline {section}{\numberline {2-6}ترکیب داده‌های \lr {JVM} و سیستم‌عامل}{20}{section.2.6}%
+\contentsline {section}{\numberline {2-7}انتقال و پردازش جریانی داده با \lr {Apache Kafka}}{21}{section.2.7}%
+\contentsline {section}{\numberline {2-8}تشخیص ناهنجاری در داده‌های پایشی}{22}{section.2.8}%
+\contentsline {subsection}{\numberline {2-8-1}روش آستانه‌ای}{23}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2-8-2}خط پایه غلتان}{23}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2-8-3}تشخیص روند}{23}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2-8-4}معیارهای ارزیابی آشکارساز}{24}{subsection.2.8.4}%
+\contentsline {section}{\numberline {2-9}ملاحظات سربار و دقت}{24}{section.2.9}%
+\contentsline {section}{\numberline {2-10}جمع‌بندی}{25}{section.2.10}%
+\contentsline {chapter}{\numberline {3}معماری سامانه}{26}{chapter.3}%
+\contentsline {section}{\numberline {3-1}مقدمه}{27}{section.3.1}%
+\contentsline {section}{\numberline {3-2}نمای کلی معماری}{27}{section.3.2}%
+\contentsline {section}{\numberline {3-3}مسیرهای داده در سامانه}{28}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1}مسیر رخدادهای \lr {JFR}}{28}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3-3-2}مسیر رخدادهای هسته}{28}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3-4}لایه جمع‌آوری داده}{29}{section.3.4}%
+\contentsline {section}{\numberline {3-5}لایه انتقال و ذخیره‌سازی جریان داده}{29}{section.3.5}%
+\contentsline {section}{\numberline {3-6}لایه تجمیع}{29}{section.3.6}%
+\contentsline {section}{\numberline {3-7}لایه تحلیل}{30}{section.3.7}%
+\contentsline {section}{\numberline {3-8}لایه ارزیابی}{31}{section.3.8}%
+\contentsline {section}{\numberline {3-9}مدل داده مشترک}{31}{section.3.9}%
+\contentsline {section}{\numberline {3-10}دلایل انتخاب معماری لایه‌ای}{31}{section.3.10}%
+\contentsline {section}{\numberline {3-11}جمع‌بندی}{32}{section.3.11}%
+\contentsline {chapter}{\numberline {4}پیاده‌سازی سامانه}{33}{chapter.4}%
+\contentsline {section}{\numberline {4-1}ساختار مخزن}{34}{section.4.1}%
+\contentsline {section}{\numberline {4-2}دریافت رخدادهای \lr {JFR}}{34}{section.4.2}%
+\contentsline {section}{\numberline {4-3}دریافت رخدادهای هسته}{34}{section.4.3}%
+\contentsline {section}{\numberline {4-4}تجمیع رخدادها}{34}{section.4.4}%
+\contentsline {section}{\numberline {4-5}تحلیل و گزارش‌گیری}{35}{section.4.5}%
+\contentsline {section}{\numberline {4-6}پایش خود سامانه}{35}{section.4.6}%
+\contentsline {section}{\numberline {4-7}جمع‌بندی}{35}{section.4.7}%
+\contentsline {chapter}{\numberline {5}ارزیابی، نتیجه‌گیری و کارهای آینده}{36}{chapter.5}%
+\contentsline {section}{\numberline {5-1}روش ارزیابی}{37}{section.5.1}%
+\contentsline {section}{\numberline {5-2}سناریوهای آزمایش}{37}{section.5.2}%
+\contentsline {section}{\numberline {5-3}معیارهای ارزیابی}{37}{section.5.3}%
+\contentsline {section}{\numberline {5-4}بحث}{38}{section.5.4}%
+\contentsline {section}{\numberline {5-5}نتیجه‌گیری}{38}{section.5.5}%
+\contentsline {section}{\numberline {5-6}کارهای آینده}{38}{section.5.6}%
+\contentsline {chapter}{کتاب‌نامه}{40}{appendix*.7}%
+\contentsline {chapter}{\numberline {آ}راهنمای اجرای پروژه}{41}{appendix.Alph1}%
+\contentsline {section}{\numberline {آ-1}ساخت ماژول‌های جاوا}{42}{section.Alph1.1}%
+\contentsline {section}{\numberline {آ-2}اجرای اجزای اصلی}{42}{section.Alph1.2}%
+\contentsline {section}{\numberline {آ-3}اجرای ارزیابی}{42}{section.Alph1.3}%
+\contentsline {section}{\numberline {آ-4}خروجی‌ها}{42}{section.Alph1.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{44}{appendix*.8}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{46}{appendix*.9}%
 \contentsfinish 
